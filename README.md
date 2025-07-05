@@ -14,7 +14,7 @@
 - 🌱 Currently exploring **Ethical Hacking** & Cybersecurity  
 - 💻 Passionate about crafting intuitive, responsive **user interfaces**  
 - 🧠 Always learning new tech & frameworks
-- Python enthusiast 
+- 🐍 Python enthusiast 
 - 📫 Reach me at: [gouthamkrishnaks05@gmail.com](mailto:gouthamkrishnaks05@gmail.com)
 
 ---
