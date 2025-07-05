@@ -59,10 +59,10 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=gouthamkrishnaks&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=gouthamkrishna-k-s&show_icons=true&theme=radical" />
 
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gouthamkrishnaks&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gouthamkrishna-k-s&theme=radical" />
 
 </p>
 
