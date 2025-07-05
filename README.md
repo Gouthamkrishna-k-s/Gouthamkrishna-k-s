@@ -1,7 +1,9 @@
 <!-- Animated Header -->
+<!-- Fancy Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Gouthamkrishna+K+S;Frontend+Developer+%F0%9F%92%BB;Ethical+Hacking+Enthusiast+%F0%9F%94%91;Code.+Learn.+Create.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Gouthamkrishna+K+S;Frontend+Developer+%F0%9F%92%BB;Ethical+Hacking+Explorer+%F0%9F%94%91;UI%2FUX+Designer+in+Training+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;Linux+%7C+Python+%7C+Web+Dev+%F0%9F%9A%80;Learning+by+Doing+%E2%9C%A8+Always+!;Let%27s+Build+Something+Awesome+Together+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
+
 
 <h2 align="center">🚀 Turning ideas into interactive experiences</h2>
 
