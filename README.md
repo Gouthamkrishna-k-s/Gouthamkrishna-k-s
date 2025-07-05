@@ -19,7 +19,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gouthamkrishnaks" target="_blank">
+  <a href="https://www.linkedin.com/in/gouthamkrishna-k-s/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/gouthamkrishna_k_s" target="_blank">
