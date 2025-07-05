@@ -58,8 +58,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gouthamkrishnaks&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gouthamkrishnaks&theme=tokyonight" width="48%" />
+  <!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=gouthamkrishnaks&show_icons=true&theme=radical" />
+
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gouthamkrishnaks&theme=radical" />
+
 </p>
 
 ---
